@@ -1,0 +1,1 @@
+[{"city": "Vaillant", "name": "Brunet", "phone": "+33 (0)1 03 54 90 37"}, {"city": "Jacques", "name": "Vallee", "phone": "+33 8 92 52 34 92"}, {"city": "Robin", "name": "Simon S.A.S.", "phone": "+33 4 41 04 84 60"}, {"city": "Gregoire-sur-Blanchard", "name": "Moreno", "phone": "+33 6 44 64 06 10"}]

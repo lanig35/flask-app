@@ -1,0 +1,10 @@
+{
+  "_id": "_design/auteur",
+  "language": "javascript",
+  "views": {
+    "byauthor": {
+      "map": "function(doc) {emit(doc.author, doc.title);}"
+    }
+  }
+}
+

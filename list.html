@@ -1,0 +1,13 @@
+<html>
+<head>
+    <title> {{ title }} </title>
+</head>
+
+<body>
+<table>
+    {% for item in dataset %}
+    <tr><td>{{ item['name'] }}</td><td>{{ item['city'] }}</td></tr>
+    {% endfor %}
+</table>
+</body>
+</html>
